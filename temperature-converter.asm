@@ -1,4 +1,4 @@
-#MIPS Assembly Programming Practice Exercise - "Temperature Converter"
+#MIPS Assembly Programming Practice Exercise - Temperature Converter
 #Written by John Hunsaker
 
 .data
